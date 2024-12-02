@@ -14,7 +14,7 @@
   
  </p>
 
-# &#x23F1; Socket Chat
+# Socket Chat
 
 ## Project Setup
 
